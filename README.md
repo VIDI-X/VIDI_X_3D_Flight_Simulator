@@ -1,8 +1,8 @@
 # VIDI X — 3D First-Person Arcade Flight Simulator
   ----------------------------------------------------------------------------
-## Compiled With:
-### Arduino IDE 2.3.7
-### esp32 by Espressif Systems 3.3.5
+### Compiled With:
+- Arduino IDE 2.3.7
+- esp32 by Espressif Systems 3.3.5
 ### Libraries:
 
 ```C++
